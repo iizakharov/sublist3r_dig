@@ -1,6 +1,6 @@
 # sublist3r_dig
 
-A script that combines [sublist3r](https://github.com/aboul3la/Sublist3r.git)  and the [dig"](https://github.com/iagox86/dnsutils.git) utility.
+A script that combines [sublist3r](https://github.com/aboul3la/Sublist3r.git)  and the [dig](https://github.com/iagox86/dnsutils.git) utility.
 Domain name parser. The output is a txt file with all the ip addresses that are associated with this domain
 
 ## Installation
