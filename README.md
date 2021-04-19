@@ -38,7 +38,7 @@ sudo pip install -r requirements.txt
 
 ```python main.py ```
 
-```>> Enter your domain name: goole.com```
+```>> Enter your domain name: google.com```
 
 
 After the script is completed, a file with the same name will appear with all the ip addresses
