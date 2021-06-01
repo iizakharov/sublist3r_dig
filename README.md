@@ -28,6 +28,7 @@ c:\python27\python.exe -m pip install -r requirements.txt
 ```
 - Installation on Linux
 ```
+sudo apt install dnsutils
 sudo pip install -r requirements.txt
 ```
 
